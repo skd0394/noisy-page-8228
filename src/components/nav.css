@@ -1,0 +1,82 @@
+.nav {
+    border: 0px solid black;
+    display: flex;
+    gap: 4px;
+    height: 64px;
+    width: 100%;
+    background-color: rgb(247, 248, 247);
+    margin-top: 44px;
+}
+
+.nav>div {
+    border: 0px solid black;
+    width: 25%;
+}
+
+#logo {
+    width: 15%;
+    padding-left: 20px;
+}
+
+#logo>img {
+    width: auto;
+    height: 100%;
+}
+
+#work_page>div {
+    height: 100%;
+    width: 20%;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
+
+#work_page {
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+    font-size: xx-small;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#search_bar {
+    width: 33%;
+    cursor: pointer;
+}
+
+#work_page>div:hover {
+    background-color: white;
+    color: orange;
+    cursor: pointer;
+}
+
+#profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5px;
+    width: 19%;
+}
+
+#heart {
+    width: auto;
+    height: 40%;
+    cursor: pointer;
+}
+
+#bag {
+    width: auto;
+    height: 40%;
+    cursor: pointer;
+}
+
+#Text:hover {
+    background-color: white;
+    color: orange;
+    cursor: pointer;
+}
+
+#Women{
+    font-weight: 500;
+}
