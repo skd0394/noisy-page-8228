@@ -30,7 +30,7 @@ export default function Women_div() {
                 <Text>Kurta Sets</Text>
                 <Text>Ethnic Dresses</Text>
                 <Text>Tops & Turics</Text>
-                <Text>Leggings & Chudidars</Text>
+                <Text>Leggings & Chudidar</Text>
                 <Text>Pants & Pallzos</Text>
             </Box>
             <Divider orientation="vertical" />
